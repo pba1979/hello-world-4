@@ -84,7 +84,7 @@ public class Main {
 //        list.removeItem(new Node("6"));
 //        list.traverse(list.getRoot());
 
-
+// Test JIRA integrasjon
 
 
 
